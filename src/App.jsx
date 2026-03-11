@@ -26,7 +26,7 @@ const App = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-4">
       <div className="backdrop-blur-lg bg-white/20 border border-white/30 shadow-2xl rounded-3xl p-8 w-full max-w-md">
         <h1 className="text-center text-3xl font-bold text-white mb-6">
-          Social Media Downloader
+          Your Media Downloader
         </h1>
 
         <div className="flex flex-col gap-4">
